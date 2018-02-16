@@ -1,6 +1,6 @@
 name: Alpha
 description: Alphs template for Jekyll
-baseurl: '/amixbank'
+baseurl: '/mixbank'
 
 url: "http://localhost:4000"
 
