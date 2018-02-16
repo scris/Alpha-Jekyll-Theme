@@ -2,7 +2,7 @@ name: Alpha
 description: Alphs template for Jekyll
 baseurl: '/amixbank'
 
-url: "http://scris.top/"
+url: "https://scris.top/"
 
 paginate: 10
 
